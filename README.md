@@ -1,4 +1,3 @@
-
 # Solana Token Balance Analyzer
 
 ## Installation
@@ -10,7 +9,7 @@ To install this program, you will need Node.js and git
 
 Restart your comptuter and then make a folder which will contain the program, open the terminal on the folder location and run
 ```sh
-git clone https://github.com/...
+git clone https://github.com/dogevroum/solana_token_balance_analyzer.git
 npm i @solana/web3.js
 npm i @solana/spl-token
 npm i esrun
