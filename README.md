@@ -10,6 +10,9 @@ To install this program, you will need Node.js and git
 Once both installed, restart your comptuter and then make a folder which will contain the program, open the terminal on the folder location and run
 ```sh
 git clone https://github.com/dogevroum/solana_token_balance_analyzer.git
+```
+Then go into "solana_token_balance_analyzer" folder and run
+```sh
 npm ci
 ```
 The program should be correctly installed, to run it type in your terminal
