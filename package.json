@@ -1,0 +1,20 @@
+{
+    "name": "solana_token_balance_analyzer",
+    "version": "1.0.0",
+    "description": "A very easy to use program which returns the tokens and their quantities from a solana wallet",
+    "main": "main.ts",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dogevroum/solana_token_balance_analyzer/blob/main/LICENSE"
+    },
+    "author": "dogevroum",
+    "license": "GNU GPLv3",
+    "dependencies": {
+        "@solana/spl-token": "^0.3.11",
+        "@solana/web3.js": "^1.89.1",
+        "esrun": "^3.2.26"
+    }
+}
