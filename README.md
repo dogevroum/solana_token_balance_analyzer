@@ -7,12 +7,10 @@ To install this program, you will need Node.js and git
 * https://github.com/git-guides/install-git
 * https://nodejs.org/en/download
 
-Restart your comptuter and then make a folder which will contain the program, open the terminal on the folder location and run
+Once both installed, restart your comptuter and then make a folder which will contain the program, open the terminal on the folder location and run
 ```sh
 git clone https://github.com/dogevroum/solana_token_balance_analyzer.git
-npm i @solana/web3.js
-npm i @solana/spl-token
-npm i esrun
+npm ci
 ```
 The program should be correctly installed, to run it type in your terminal
 ```sh
