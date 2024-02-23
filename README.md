@@ -33,5 +33,3 @@ Just change https://api.mainnet-beta.solana.com by the one you want to use
 
 ## My networks
 You can find me on discord, my username is `dogevr`
-
-This program is entirely free, but if you want to make a donation to support my work, here are my adress `9qgt55vF3AWqM1ophBGkfVqDBVt5ayKB2cyL2Y1JPTmZ`
